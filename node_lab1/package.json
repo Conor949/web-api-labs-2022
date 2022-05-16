@@ -12,5 +12,13 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conor949/web-api-labs-2022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Conor949/web-api-labs-2022/issues"
+  },
+  "homepage": "https://github.com/Conor949/web-api-labs-2022#readme"
 }
