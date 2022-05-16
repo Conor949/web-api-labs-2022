@@ -1,0 +1,31 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "dev": "nodemon --exec npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conor949/web-api-labs-2022.git"
+  },
+  "author": "Conor949",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conor949/web-api-labs-2022/issues"
+  },
+  "homepage": "https://github.com/Conor949/web-api-labs-2022#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^8.15.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
